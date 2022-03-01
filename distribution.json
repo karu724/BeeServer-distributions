@@ -271,7 +271,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47866,
-            "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/BeeMod-1.0-SNAPSHOT.jar",
+            "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/BeeMod-1.0.jar",
             "MD5": "47b61e670cea5694d75395a2ffeb51cf"
           }
         },
