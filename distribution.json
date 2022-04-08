@@ -306,6 +306,16 @@
           }
         },
         {
+          "id": "net.blay09.mods:cookingforblockheads:6.4.70@jar",
+          "name": "CookingForBlockHeads",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 589823,
+            "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/CookingForBlockheads_1.12.2-6.4.70.jar",
+            "MD5": "942d63804263b04516eb49ddba125e59"
+          }
+        },
+        {
           "id": "com.creativemd:creativecore:1.10@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
