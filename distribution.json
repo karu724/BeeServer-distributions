@@ -336,16 +336,6 @@
           }
         },
         {
-          "id": "org.orecruncher:orelib:1.12.2-3.6.0.1@jar",
-          "name": "OreLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 341728,
-            "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/optionalon/OreLib-1.12.2-3.6.0.1.jar",
-            "MD5": "00cce3b240365458adcad3e77782358a"
-          }
-        },
-        {
           "id": "org.orecruncher.dsurround:dynamicsurroundings:1.12.2-3.6.1.0@jar",
           "name": "DynamicSurroundings",
           "type": "ForgeMod",
@@ -436,6 +426,16 @@
             "size": 2598821,
             "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/OptiFine.jar",
             "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
+          }
+        },
+        {
+          "id": "org.orecruncher:orelib:1.12.2-3.6.0.1@jar",
+          "name": "OreLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341728,
+            "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/optionalon/OreLib-1.12.2-3.6.0.1.jar",
+            "MD5": "00cce3b240365458adcad3e77782358a"
           }
         },
         {
