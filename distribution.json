@@ -312,7 +312,7 @@
           "artifact": {
             "size": 589823,
             "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/CookingForBlockheads_1.12.2-6.4.70.jar",
-            "MD5": "942d63804263b04516eb49ddba125e59"
+            "MD5": "5460d5ae7b11633b403fd02f8d69b156"
           }
         },
         {
@@ -333,6 +333,29 @@
             "size": 9911871,
             "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
+          }
+        },
+        {
+          "id": "org.orecruncher:orelib:1.12.2-3.6.0.1@jar",
+          "name": "OreLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341728,
+            "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/optionalon/OreLib-1.12.2-3.6.0.1.jar",
+            "MD5": "00cce3b240365458adcad3e77782358a"
+          }
+        },
+        {
+          "id": "org.orecruncher.dsurround:dynamicsurroundings:1.12.2-3.6.1.0@jar",
+          "name": "DynamicSurroundings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15929762,
+            "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/optionalon/DynamicSurroundings-1.12.2-3.6.1.0.jar",
+            "MD5": "1a0d50a34941865ff091a492e0612502"
+          },
+          "required": {
+            "value": false
           }
         },
         {
