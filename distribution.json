@@ -13,15 +13,15 @@
       "description": "beeserver Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "beeonline.kro.kr",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860:universal",
@@ -272,7 +272,7 @@
           "artifact": {
             "size": 47866,
             "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/BeeMod-1.0-SNAPSHOT.jar",
-            "MD5": "9f4bc76b0deb35b2b524319340477fba"
+            "MD5": "1bda25bf7309112f2c7f9596e591c64e"
           }
         },
         {
@@ -366,6 +366,9 @@
             "size": 30763,
             "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/koreanchat.jar",
             "MD5": "91492de16021a4f7018eb5d523f45fc2"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -426,6 +429,9 @@
             "size": 2598821,
             "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/OptiFine.jar",
             "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
