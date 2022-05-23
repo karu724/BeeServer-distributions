@@ -442,6 +442,9 @@
             "size": 341728,
             "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/optionalon/OreLib-1.12.2-3.6.0.1.jar",
             "MD5": "00cce3b240365458adcad3e77782358a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
