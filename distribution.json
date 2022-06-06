@@ -488,6 +488,9 @@
             "size": 445000,
             "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/VoiceChat-1.12.2-0.7.0.jar",
             "MD5": "d8bb047f700fca6ac08a88f9abb45d82"
+          },
+          "required": { 
+            "value": false 
           }
         },
         {
